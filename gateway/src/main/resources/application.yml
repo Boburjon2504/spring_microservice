@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: gateway
+
+  cloud:
+    gateway:
+      routes:
+        -id: clientModel
+
+
+server: 8085
+  port:
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true

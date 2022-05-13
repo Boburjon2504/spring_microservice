@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/departmnetSevice/departmnetSevice.iml" filepath="$PROJECT_DIR$/departmnetSevice/departmnetSevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateaway/gateaway.iml" filepath="$PROJECT_DIR$/gateaway/gateaway.iml" />
+    </modules>
+  </component>
+</project>
